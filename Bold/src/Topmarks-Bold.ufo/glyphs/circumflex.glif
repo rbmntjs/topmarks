@@ -1,16 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circumflex" format="1">
-  <advance width="1212"/>
+  <advance width="1004"/>
   <unicode hex="02C6"/>
   <outline>
     <contour>
-      <point x="514" y="1509" type="line"/>
-      <point x="680" y="1509" type="line"/>
-      <point x="968" y="1128" type="line"/>
-      <point x="742" y="1128" type="line"/>
-      <point x="597" y="1312" type="line"/>
-      <point x="445" y="1128" type="line"/>
-      <point x="227" y="1128" type="line"/>
+      <point x="414" y="1509" type="line"/>
+      <point x="580" y="1509" type="line"/>
+      <point x="868" y="1128" type="line"/>
+      <point x="642" y="1128" type="line"/>
+      <point x="497" y="1312" type="line"/>
+      <point x="345" y="1128" type="line"/>
+      <point x="127" y="1128" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>circumflex</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1004</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

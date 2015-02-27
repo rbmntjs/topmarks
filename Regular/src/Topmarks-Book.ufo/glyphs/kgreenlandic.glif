@@ -4,19 +4,52 @@
   <unicode hex="0138"/>
   <outline>
     <contour>
-      <point x="188" y="0" type="line"/>
-      <point x="188" y="1026" type="line"/>
-      <point x="353" y="1026" type="line"/>
-      <point x="353" y="557" type="line"/>
-      <point x="800" y="1026" type="line"/>
-      <point x="1024" y="1026" type="line"/>
-      <point x="508" y="512" type="line"/>
-      <point x="691" y="338"/>
-      <point x="871" y="174"/>
-      <point x="1062" y="0" type="curve"/>
-      <point x="843" y="0" type="line"/>
-      <point x="353" y="471" type="line"/>
       <point x="353" y="0" type="line"/>
+      <point x="353" y="471" type="line"/>
+      <point x="843" y="0" type="line"/>
+      <point x="1062" y="0" type="line"/>
+      <point x="508" y="512" type="line"/>
+      <point x="1024" y="1026" type="line"/>
+      <point x="800" y="1026" type="line"/>
+      <point x="353" y="557" type="line"/>
+      <point x="353" y="728" type="line" smooth="yes"/>
+      <point x="353" y="886"/>
+      <point x="335" y="972"/>
+      <point x="316" y="1026" type="curve"/>
+      <point x="145" y="1026" type="line"/>
+      <point x="145" y="1026"/>
+      <point x="188" y="833"/>
+      <point x="188" y="634" type="curve"/>
+      <point x="188" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>kgreenlandic</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1071</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

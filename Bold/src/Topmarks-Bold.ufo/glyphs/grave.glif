@@ -3,11 +3,35 @@
   <advance width="681"/>
   <unicode hex="0060"/>
   <outline>
-    <contour>
-      <point x="411" y="1162" type="line"/>
-      <point x="81" y="1480" type="line"/>
-      <point x="354" y="1480" type="line"/>
-      <point x="600" y="1162" type="line"/>
-    </contour>
+    <component base="gravecomb" xOffset="-140"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>grave</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>681</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
