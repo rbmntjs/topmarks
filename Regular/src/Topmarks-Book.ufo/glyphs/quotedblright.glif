@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblright" format="1">
-  <advance width="899"/>
+  <advance width="859.0"/>
   <unicode hex="201D"/>
   <outline>
     <contour>
@@ -16,4 +16,33 @@
       <point x="605" y="1016" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>quotedblright</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>859.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

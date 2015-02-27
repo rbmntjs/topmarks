@@ -3,7 +3,36 @@
   <advance width="1216"/>
   <unicode hex="020D"/>
   <outline>
-    <component base="dblgravecmb" xOffset="433" yOffset="104"/>
+    <component base="dblgravecmb" xOffset="433" yOffset="4"/>
     <component base="o"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni020D</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1216</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
