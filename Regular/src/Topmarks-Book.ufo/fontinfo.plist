@@ -100,8 +100,6 @@ http://scripts.sil.org/OFL</string>
 	<integer>0</integer>
 	<key>postscriptUnderlineThickness</key>
 	<integer>0</integer>
-	<key>postscriptWeightName</key>
-	<string>Regular</string>
 	<key>styleMapFamilyName</key>
 	<string>Topmarks</string>
 	<key>styleMapStyleName</key>

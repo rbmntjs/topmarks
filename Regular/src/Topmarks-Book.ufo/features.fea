@@ -124,7 +124,7 @@ lookup kernHorizontalKerninginLatinloo {
     pos @kc2_first_14 @kc2_second_22 96;
     pos @kc2_first_15 @kc2_second_13 -45;
     pos @kc2_first_15 @kc2_second_22 -94;
-  subtable;
+
     pos \K \Q -28;
     pos \K \Q -28;
     pos \L \Q -22;
@@ -159,8 +159,7 @@ lookup markMarkPositioninglookup0 {
   lookupflag 0;
   markClass [\ogonek ] <anchor 308 0> @ogonek;
   markClass [\cedilla ] <anchor 280 0> @bottom;
-  markClass [\comma ] <anchor 268 346> @bottom;
-  markClass [\uni0326 ] <anchor 288 0> @bottom;
+  markClass [\uni0326 ] <anchor 268 0> @bottom;
   markClass [\acutecomb ] <anchor 164 1048> @top;
   markClass [\breve ] <anchor 327 1046> @top;
   markClass [\caroncomb ] <anchor 352 1025> @top;

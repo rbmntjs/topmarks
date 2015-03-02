@@ -4,110 +4,6 @@ languagesystem latn dflt;
 # GPOS 
 
 
-lookup kernHorizontalKerninginLatinloo {
-  lookupflag 0;
-    pos \F \period -70;
-    pos \F \comma -150;
-    pos \F \period -70;
-    pos \F \comma -150;
-    pos \F \period -70;
-    pos \F \comma -150;
-    pos \F \period -70;
-    pos \F \comma -150;
-    pos \K \Q -28;
-    pos \K \Q -28;
-    pos \K \Q -28;
-    pos \K \Q -28;
-    pos \L \w -14;
-    pos \L \v -12;
-    pos \L \quoteright -140;
-    pos \L \quotedblright -210;
-    pos \L \W -22;
-    pos \L \V -34;
-    pos \L \Q -22;
-    pos \L \w -14;
-    pos \L \v -12;
-    pos \L \quoteright -140;
-    pos \L \quotedblright -210;
-    pos \L \W -22;
-    pos \L \V -34;
-    pos \L \Q -22;
-    pos \L \w -14;
-    pos \L \v -12;
-    pos \L \quoteright -140;
-    pos \L \quotedblright -210;
-    pos \L \W -22;
-    pos \L \V -34;
-    pos \L \Q -22;
-    pos \L \w -14;
-    pos \L \v -12;
-    pos \L \quoteright -140;
-    pos \L \quotedblright -210;
-    pos \L \W -22;
-    pos \L \V -34;
-    pos \L \Q -22;
-    pos \P \period -100;
-    pos \P \comma -160;
-    pos \P \period -100;
-    pos \P \comma -160;
-    pos \P \period -100;
-    pos \P \comma -160;
-    pos \P \period -100;
-    pos \P \comma -160;
-    pos \f \quoteright 70;
-    pos \f \quotedblright 30;
-    pos \f \quoteright 70;
-    pos \f \quotedblright 30;
-    pos \f \quoteright 70;
-    pos \f \quotedblright 30;
-    pos \f \quoteright 70;
-    pos \f \quotedblright 30;
-    pos \v \period -60;
-    pos \v \period -60;
-    pos \v \period -60;
-    pos \v \period -60;
-    pos \w \period -50;
-    pos \w \period -50;
-    pos \w \period -50;
-    pos \w \period -50;
-} kernHorizontalKerninginLatinloo;
-
-lookup pos_pair_kernlatn_0 {
-  lookupflag 0;
-    pos \F \period -70;
-    pos \F \comma -150;
-    pos \F \period -70;
-    pos \F \comma -150;
-    pos \K \Q -28;
-    pos \K \Q -28;
-    pos \L \w -14;
-    pos \L \v -12;
-    pos \L \quoteright -140;
-    pos \L \quotedblright -210;
-    pos \L \W -22;
-    pos \L \V -34;
-    pos \L \Q -22;
-    pos \L \w -14;
-    pos \L \v -12;
-    pos \L \quoteright -140;
-    pos \L \quotedblright -210;
-    pos \L \W -22;
-    pos \L \V -34;
-    pos \L \Q -22;
-    pos \P \period -100;
-    pos \P \comma -160;
-    pos \P \period -100;
-    pos \P \comma -160;
-    pos \f \quoteright 70;
-    pos \f \quotedblright 30;
-    pos \f \quoteright 70;
-    pos \f \quotedblright 30;
-    pos \v \period -60;
-    pos \v \period -60;
-    pos \w \period -50;
-    pos \w \period -50;
-} pos_pair_kernlatn_0;
-
 lookup pos_pair_kernlatn_2 {
   lookupflag 0;
     @kc2_first_1 = [\A \Aacute \Abreve \Acircumflex \Adieresis \Agrave \Amacron \Aogonek \Aring 
@@ -251,8 +147,6 @@ feature kern {
 
  script latn;
      language dflt ;
-      lookup kernHorizontalKerninginLatinloo;
-      lookup pos_pair_kernlatn_0;
       lookup pos_pair_kernlatn_2;
 } kern;
 
