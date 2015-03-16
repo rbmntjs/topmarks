@@ -141,6 +141,8 @@ lookup pos_pair_kernlatn_2 {
     pos \v \period -60;
     pos \w \period -50;
     pos \w \period -50;
+    pos \period \seven -70;
+    pos \period \nine -100;
 } pos_pair_kernlatn_2;
 
 feature kern {

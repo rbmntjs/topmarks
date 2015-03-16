@@ -20,6 +20,8 @@
 	<string>2013/07/19 15:03:00</string>
 	<key>openTypeHheaAscender</key>
 	<integer>1968</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-656</integer>
 	<key>openTypeHheaLineGap</key>
 	<integer>0</integer>
 	<key>openTypeNameDescription</key>
