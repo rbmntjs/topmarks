@@ -3,8 +3,33 @@
   <advance width="1614"/>
   <unicode hex="0132"/>
   <outline>
-    <component base="I" xOffset="10"/>
-    <component base="J" xOffset="479"/>
+    <contour>
+      <point x="602" y="0" type="line"/>
+      <point x="352" y="0" type="line"/>
+      <point x="352" y="1560" type="line"/>
+      <point x="602" y="1560" type="line"/>
+    </contour>
+    <contour>
+      <point x="669" y="125" type="curve"/>
+      <point x="787" y="290" type="line"/>
+      <point x="851.238150759" y="216.702622852"/>
+      <point x="922.2" y="184"/>
+      <point x="987" y="184" type="curve" smooth="yes"/>
+      <point x="997" y="184" type="line" smooth="yes"/>
+      <point x="1088.62430054" y="184"/>
+      <point x="1160" y="268.0"/>
+      <point x="1160" y="428" type="curve" smooth="yes"/>
+      <point x="1160" y="1378" type="line"/>
+      <point x="736" y="1378" type="line"/>
+      <point x="736" y="1560" type="line"/>
+      <point x="1403" y="1560" type="line"/>
+      <point x="1403" y="447" type="line" smooth="yes"/>
+      <point x="1403" y="125.0"/>
+      <point x="1216.20745921" y="-24.0"/>
+      <point x="1014" y="-24" type="curve" smooth="yes"/>
+      <point x="878.620253165" y="-24.0"/>
+      <point x="764.735944691" y="16.0893840211"/>
+    </contour>
   </outline>
   <lib>
     <dict>
