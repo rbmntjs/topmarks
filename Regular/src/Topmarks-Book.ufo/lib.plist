@@ -20,7 +20,7 @@
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/rob/Dropbox/Type/00_Projects/Topmarks/topmarks/Exports/Topmarks-Book.ttf</string>
+	<string>/Users/rob/Dropbox/Type/00_Projects/Topmarks/topmarks/Regular/src/Topmarks-Book.ttf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
