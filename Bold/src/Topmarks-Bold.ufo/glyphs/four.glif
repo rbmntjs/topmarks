@@ -14,11 +14,40 @@
       <point x="772" y="327" type="line"/>
       <point x="154" y="327" type="line"/>
       <point x="154" y="504" type="line"/>
-      <point x="520" y="1456" type="line"/>
-      <point x="743" y="1456" type="line"/>
+      <point x="556" y="1560" type="line"/>
+      <point x="779" y="1560" type="line"/>
       <point x="415" y="518" type="line"/>
       <point x="772" y="518" type="line"/>
       <point x="772" y="868" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>four</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1282</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
