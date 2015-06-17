@@ -4,19 +4,19 @@
   <unicode hex="2265"/>
   <outline>
     <contour>
-      <point x="334" y="1439" type="line"/>
-      <point x="1389" y="883" type="line"/>
-      <point x="1389" y="789" type="line"/>
-      <point x="330" y="261" type="line"/>
-      <point x="330" y="427" type="line"/>
-      <point x="1180" y="835" type="line"/>
-      <point x="334" y="1275" type="line"/>
+      <point x="334" y="1539" type="line"/>
+      <point x="1389" y="983" type="line"/>
+      <point x="1389" y="889" type="line"/>
+      <point x="330" y="361" type="line"/>
+      <point x="330" y="527" type="line"/>
+      <point x="1180" y="935" type="line"/>
+      <point x="334" y="1375" type="line"/>
     </contour>
     <contour>
-      <point x="294" y="15" type="line"/>
-      <point x="294" y="159" type="line"/>
-      <point x="1412" y="159" type="line"/>
-      <point x="1412" y="15" type="line"/>
+      <point x="294" y="115" type="line"/>
+      <point x="294" y="259" type="line"/>
+      <point x="1412" y="259" type="line"/>
+      <point x="1412" y="115" type="line"/>
     </contour>
   </outline>
   <lib>
