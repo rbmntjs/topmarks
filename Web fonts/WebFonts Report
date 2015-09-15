@@ -1,0 +1,256 @@
+Converted Files:
+****************
+
+Topmarks-Bold.ufo
+-----------------
+source: /Users/rob/Dropbox/Type/00_Projects/Topmarks/topmarks/Bold/src/Topmarks-Bold.ufo
+
+Build OTF
+'''''''''
+    path: /Users/rob/Dropbox/Type/00_Projects/Topmarks/topmarks/Web fonts/Topmarks-Bold.otf
+    Source is a UFO file. Generate OTF.
+        --------------------
+        
+        parts Report
+        
+        [Warning] The copyright was normalized for storage in the CFF table and consequently some characters were dropped: 'Copyright c 2012-13 by vernon adams.'
+        
+        
+        makeotf Report
+        
+        makeotf [Note] Converting source font '/font.otf' to temporary Unix Type1 font file '/font.otf.tmp'.
+        makeotf [Note] adding the style Bold from fontinfo keyword.
+        makeotf [Note] setting the DONT_USE_WIN_LINE_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        makeotf [Note] Writing options file /current.fpr
+        makeotf [Note] Running makeotfexe with commands:
+           cd ""
+           makeotfexe -f font.otf.tmp -o tmpgQg3q1.otf -ff features -gf glyphOrder -mf menuname -r -b
+        makeotfexe [WARNING] <Topmarks-Bold> glyph <commaaccent> not encoded in Unicode cmap: overridden by uni<CODE> glyph(s)
+        makeotfexe [WARNING] <Topmarks-Bold> Specific kern pair occurring after class kern pair: F period [features 112]
+        makeotfexe [NOTE] <Topmarks-Bold> Removing duplicate pair positioning in '' feature: F period
+        makeotfexe [NOTE] <Topmarks-Bold> Removing duplicate pair positioning in '' feature: F comma
+        makeotfexe [NOTE] <Topmarks-Bold> Removing duplicate pair positioning in '' feature: K Q
+        makeotfexe [NOTE] <Topmarks-Bold> Removing duplicate pair positioning in '' feature: L Q
+        makeotfexe [NOTE] <Topmarks-Bold> Removing duplicate pair positioning in '' feature: L V
+        makeotfexe [NOTE] <Topmarks-Bold> Removing duplicate pair positioning in '' feature: L W
+        makeotfexe [NOTE] <Topmarks-Bold> Removing duplicate pair positioning in '' feature: L v
+        makeotfexe [NOTE] <Topmarks-Bold> Removing duplicate pair positioning in '' feature: L w
+        makeotfexe [NOTE] <Topmarks-Bold> Removing duplicate pair positioning in '' feature: L quoteright
+        makeotfexe [NOTE] <Topmarks-Bold> Removing duplicate pair positioning in '' feature: L quotedblright
+        makeotfexe [NOTE] <Topmarks-Bold> Removing duplicate pair positioning in '' feature: P period
+        makeotfexe [NOTE] <Topmarks-Bold> Removing duplicate pair positioning in '' feature: P comma
+        makeotfexe [NOTE] <Topmarks-Bold> Removing duplicate pair positioning in '' feature: f quoteright
+        makeotfexe [NOTE] <Topmarks-Bold> Removing duplicate pair positioning in '' feature: f quotedblright
+        makeotfexe [NOTE] <Topmarks-Bold> Removing duplicate pair positioning in '' feature: v period
+        makeotfexe [NOTE] <Topmarks-Bold> Removing duplicate pair positioning in '' feature: w period
+        makeotfexe [WARNING] <Topmarks-Bold> The feature file OS/2 overrides TypoAscender and TypoDescender do not sum to the font em-square.
+        makeotfexe [NOTE] Wrote new font file 'tmpgQg3q1.otf'.
+        
+        
+        Built release mode font 'tmpgQg3q1.otf' Revision 1.000
+        
+        --------------------
+        Hinting font /var/folders/8y/vjr0hwzx58q4ntt120h4n4z00000gn/T/tmpgQg3q1.otf. Start time: Tue Sep 15 11:33:57 2015.
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        ...................
+        Saving font file with new hints...Tue Sep 15 11:34:00 2015
+        Done with font /var/folders/8y/vjr0hwzx58q4ntt120h4n4z00000gn/T/tmpgQg3q1.otf. End time: Tue Sep 15 11:34:00 2015.
+        
+
+Build TTF
+'''''''''
+    path: /Users/rob/Dropbox/Type/00_Projects/Topmarks/topmarks/Web fonts/Topmarks-Bold.ttf
+    Source is a UFO file. Generate TTF.
+        --------------------
+        
+        makeotf Report
+        
+        makeotf [Note] Converting source font '/tmpxhWcgt.ttf' to temporary Unix Type1 font file '/tmpxhWcgt.ttf.tmp'.
+        makeotf [Note] adding the style Bold from fontinfo keyword.
+        makeotf [Note] setting the DONT_USE_WIN_LINE_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        makeotf [Note] Writing options file /current.fpr
+        makeotf [Note] Running makeotfexe with commands:
+           cd ""
+           makeotfexe -f tmpxhWcgt.ttf.tmp -o tmpxhWcgt.ttf -ff features -gf glyphOrder -mf menuname -r -b
+        makeotfexe [WARNING] <Topmarks-Bold> glyph <commaaccent> not encoded in Unicode cmap: overridden by uni<CODE> glyph(s)
+        makeotfexe [WARNING] <Topmarks-Bold> Specific kern pair occurring after class kern pair: F period [features 112]
+        makeotfexe [NOTE] <Topmarks-Bold> Removing duplicate pair positioning in '' feature: F period
+        makeotfexe [NOTE] <Topmarks-Bold> Removing duplicate pair positioning in '' feature: F comma
+        makeotfexe [NOTE] <Topmarks-Bold> Removing duplicate pair positioning in '' feature: K Q
+        makeotfexe [NOTE] <Topmarks-Bold> Removing duplicate pair positioning in '' feature: L Q
+        makeotfexe [NOTE] <Topmarks-Bold> Removing duplicate pair positioning in '' feature: L V
+        makeotfexe [NOTE] <Topmarks-Bold> Removing duplicate pair positioning in '' feature: L W
+        makeotfexe [NOTE] <Topmarks-Bold> Removing duplicate pair positioning in '' feature: L v
+        makeotfexe [NOTE] <Topmarks-Bold> Removing duplicate pair positioning in '' feature: L w
+        makeotfexe [NOTE] <Topmarks-Bold> Removing duplicate pair positioning in '' feature: L quoteright
+        makeotfexe [NOTE] <Topmarks-Bold> Removing duplicate pair positioning in '' feature: L quotedblright
+        makeotfexe [NOTE] <Topmarks-Bold> Removing duplicate pair positioning in '' feature: P period
+        makeotfexe [NOTE] <Topmarks-Bold> Removing duplicate pair positioning in '' feature: P comma
+        makeotfexe [NOTE] <Topmarks-Bold> Removing duplicate pair positioning in '' feature: f quoteright
+        makeotfexe [NOTE] <Topmarks-Bold> Removing duplicate pair positioning in '' feature: f quotedblright
+        makeotfexe [NOTE] <Topmarks-Bold> Removing duplicate pair positioning in '' feature: v period
+        makeotfexe [NOTE] <Topmarks-Bold> Removing duplicate pair positioning in '' feature: w period
+        makeotfexe [WARNING] <Topmarks-Bold> The feature file OS/2 overrides TypoAscender and TypoDescender do not sum to the font em-square.
+        makeotfexe [NOTE] Wrote new font file 'tmpxhWcgt.ttf'.
+        
+        
+        Built release mode font 'tmpxhWcgt.ttf' Revision 1.000
+        
+        --------------------
+
+Build WOFF (TTF)
+''''''''''''''''
+    path: /Users/rob/Dropbox/Type/00_Projects/Topmarks/topmarks/Web fonts/Topmarks-Bold.woff
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/rob/Dropbox/Type/00_Projects/Topmarks/topmarks/Web fonts/Topmarks-Bold.woff2
+
+Build EOT
+'''''''''
+    path: /Users/rob/Dropbox/Type/00_Projects/Topmarks/topmarks/Web fonts/Topmarks-Bold.eot
+
+
+Topmarks-Regular.ufo
+--------------------
+source: /Users/rob/Dropbox/Type/00_Projects/Topmarks/topmarks/Regular/src/Topmarks-Regular.ufo
+
+Build OTF
+'''''''''
+    path: /Users/rob/Dropbox/Type/00_Projects/Topmarks/topmarks/Web fonts/Topmarks-Regular.otf
+    Source is a UFO file. Generate OTF.
+        --------------------
+        
+        parts Report
+        
+        [Warning] The copyright was normalized for storage in the CFF table and consequently some characters were dropped: 'Copyright c 2012-13 by vernon adams.'
+        
+        
+        makeotf Report
+        
+        makeotf [Note] Converting source font '/font.otf' to temporary Unix Type1 font file '/font.otf.tmp'.
+        makeotf [Note] setting the DONT_USE_WIN_LINE_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        makeotf [Note] Writing options file /current.fpr
+        makeotf [Note] Running makeotfexe with commands:
+           cd ""
+           makeotfexe -f font.otf.tmp -o tmpQRjrM0.otf -ff features -gf glyphOrder -mf menuname -r
+        makeotfexe [WARNING] <Topmarks-Regular> Specific kern pair occurring after class kern pair: K Q [features 128]
+        makeotfexe [NOTE] <Topmarks-Regular> Removing duplicate pair positioning in '' feature: K Q
+        makeotfexe [NOTE] <Topmarks-Regular> Removing duplicate pair positioning in '' feature: L Q
+        makeotfexe [NOTE] <Topmarks-Regular> Removing duplicate pair positioning in '' feature: L V
+        makeotfexe [NOTE] <Topmarks-Regular> Removing duplicate pair positioning in '' feature: L W
+        makeotfexe [NOTE] <Topmarks-Regular> Removing duplicate pair positioning in '' feature: L v
+        makeotfexe [NOTE] <Topmarks-Regular> Removing duplicate pair positioning in '' feature: L w
+        makeotfexe [NOTE] <Topmarks-Regular> Removing duplicate pair positioning in '' feature: L quoteright
+        makeotfexe [NOTE] <Topmarks-Regular> Removing duplicate pair positioning in '' feature: L quotedblright
+        makeotfexe [NOTE] <Topmarks-Regular> Removing duplicate pair positioning in '' feature: P period
+        makeotfexe [NOTE] <Topmarks-Regular> Removing duplicate pair positioning in '' feature: P comma
+        makeotfexe [NOTE] <Topmarks-Regular> Removing duplicate pair positioning in '' feature: f quoteright
+        makeotfexe [NOTE] <Topmarks-Regular> Removing duplicate pair positioning in '' feature: f quotedblright
+        makeotfexe [NOTE] <Topmarks-Regular> Removing duplicate pair positioning in '' feature: v period
+        makeotfexe [NOTE] <Topmarks-Regular> Removing duplicate pair positioning in '' feature: w period
+        makeotfexe [WARNING] <Topmarks-Regular> The feature file OS/2 overrides TypoAscender and TypoDescender do not sum to the font em-square.
+        makeotfexe [NOTE] Wrote new font file 'tmpQRjrM0.otf'.
+        
+        
+        Built release mode font 'tmpQRjrM0.otf' Revision 1.000
+        
+        --------------------
+        Hinting font /var/folders/8y/vjr0hwzx58q4ntt120h4n4z00000gn/T/tmpQRjrM0.otf. Start time: Tue Sep 15 11:34:12 2015.
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        ..........
+        Saving font file with new hints...Tue Sep 15 11:34:15 2015
+        Done with font /var/folders/8y/vjr0hwzx58q4ntt120h4n4z00000gn/T/tmpQRjrM0.otf. End time: Tue Sep 15 11:34:15 2015.
+        
+
+Build TTF
+'''''''''
+    path: /Users/rob/Dropbox/Type/00_Projects/Topmarks/topmarks/Web fonts/Topmarks-Regular.ttf
+    Source is a UFO file. Generate TTF.
+        --------------------
+        
+        makeotf Report
+        
+        makeotf [Note] Converting source font '/tmpYcs6FY.ttf' to temporary Unix Type1 font file '/tmpYcs6FY.ttf.tmp'.
+        makeotf [Note] setting the DONT_USE_WIN_LINE_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        makeotf [Note] Writing options file /current.fpr
+        makeotf [Note] Running makeotfexe with commands:
+           cd ""
+           makeotfexe -f tmpYcs6FY.ttf.tmp -o tmpYcs6FY.ttf -ff features -gf glyphOrder -mf menuname -r
+        makeotfexe [WARNING] <Topmarks-Regular> Specific kern pair occurring after class kern pair: K Q [features 128]
+        makeotfexe [NOTE] <Topmarks-Regular> Removing duplicate pair positioning in '' feature: K Q
+        makeotfexe [NOTE] <Topmarks-Regular> Removing duplicate pair positioning in '' feature: L Q
+        makeotfexe [NOTE] <Topmarks-Regular> Removing duplicate pair positioning in '' feature: L V
+        makeotfexe [NOTE] <Topmarks-Regular> Removing duplicate pair positioning in '' feature: L W
+        makeotfexe [NOTE] <Topmarks-Regular> Removing duplicate pair positioning in '' feature: L v
+        makeotfexe [NOTE] <Topmarks-Regular> Removing duplicate pair positioning in '' feature: L w
+        makeotfexe [NOTE] <Topmarks-Regular> Removing duplicate pair positioning in '' feature: L quoteright
+        makeotfexe [NOTE] <Topmarks-Regular> Removing duplicate pair positioning in '' feature: L quotedblright
+        makeotfexe [NOTE] <Topmarks-Regular> Removing duplicate pair positioning in '' feature: P period
+        makeotfexe [NOTE] <Topmarks-Regular> Removing duplicate pair positioning in '' feature: P comma
+        makeotfexe [NOTE] <Topmarks-Regular> Removing duplicate pair positioning in '' feature: f quoteright
+        makeotfexe [NOTE] <Topmarks-Regular> Removing duplicate pair positioning in '' feature: f quotedblright
+        makeotfexe [NOTE] <Topmarks-Regular> Removing duplicate pair positioning in '' feature: v period
+        makeotfexe [NOTE] <Topmarks-Regular> Removing duplicate pair positioning in '' feature: w period
+        makeotfexe [WARNING] <Topmarks-Regular> The feature file OS/2 overrides TypoAscender and TypoDescender do not sum to the font em-square.
+        makeotfexe [NOTE] Wrote new font file 'tmpYcs6FY.ttf'.
+        
+        
+        Built release mode font 'tmpYcs6FY.ttf' Revision 1.000
+        
+        --------------------
+
+Build WOFF (TTF)
+''''''''''''''''
+    path: /Users/rob/Dropbox/Type/00_Projects/Topmarks/topmarks/Web fonts/Topmarks-Regular.woff
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/rob/Dropbox/Type/00_Projects/Topmarks/topmarks/Web fonts/Topmarks-Regular.woff2
+
+Build EOT
+'''''''''
+    path: /Users/rob/Dropbox/Type/00_Projects/Topmarks/topmarks/Web fonts/Topmarks-Regular.eot
+
+
+
+TTFAutohint options:
+********************
+addTTFAutoHintInfo     = False
+dwClearType            = False
+fallbackScript         = False
+gdiClearType           = True
+grayScale              = False
+hintRangeMaximum       = 50
+hintRangeMinimum       = 8
+hintingLimit           = 200
+noHintingLimit         = False
+noXHeightIncreaseLimit = False
+overRideFontLicense    = False
+preHinting             = False
+symbolFont             = False
+xHeightIncreaseLimit   = 14

@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Topmarks_Bold';
+    src:    url('Topmarks-Bold.eot');
+    src:    url('Topmarks-Bold.eot?#iefix') format('embedded-opentype'),
+            url('Topmarks-Bold.woff') format('woff'),
+            url('Topmarks-Bold.woff2') format('woff2'),
+            url('Topmarks-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Topmarks_Regular';
+    src:    url('Topmarks-Regular.eot');
+    src:    url('Topmarks-Regular.eot?#iefix') format('embedded-opentype'),
+            url('Topmarks-Regular.woff') format('woff'),
+            url('Topmarks-Regular.woff2') format('woff2'),
+            url('Topmarks-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
